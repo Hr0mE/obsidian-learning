@@ -1,1 +1,3 @@
 # obsidian-learning
+
+Пупупу
