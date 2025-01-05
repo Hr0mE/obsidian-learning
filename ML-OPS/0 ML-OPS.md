@@ -16,3 +16,8 @@
 5. [(док) Валидация данных](https://docs.pydantic.dev/latest/)
 6. [ML-OPS общий обзор](https://alesha.pro/posts/mlops-principles/)
 
+
+[[Исследования]]
+[[Исследования]]
+[[Docker]]
+[[Docker]]
