@@ -2,6 +2,10 @@
 
 ![[MLOPS_iid(cicd).png]]
 
+Этапы инкрементно-итеративной разработки (iid):
+
+
+
 
 Для освоения ML-ops важно понимать следующие вещи:
 1. [[Исследования|Что такое научное исследование и как оно связано с DS-исследованием]]
@@ -14,10 +18,4 @@
 3. [Оптимизация пайплайна](https://habr.com/ru/companies/skillfactory/articles/591063/)
 4. [(док) Менеджер пакетов](https://pdm-project.org/en/stable/)
 5. [(док) Валидация данных](https://docs.pydantic.dev/latest/)
-6. [ML-OPS общий обзор](https://alesha.pro/posts/mlops-principles/)
-
-
-[[Исследования]]
-[[Исследования]]
-[[Docker]]
-[[Docker]]
+6. 
