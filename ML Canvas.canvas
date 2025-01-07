@@ -1,13 +1,13 @@
 {
 	"nodes":[
-		{"id":"b7e6c2a7cd44e87f","type":"file","file":"ML/0 Введение в ML.md","x":-355,"y":-520,"width":400,"height":400},
+		{"id":"b7e6c2a7cd44e87f","type":"file","file":"ML/ML от Яндекса/Введение в ML.md","x":-355,"y":-520,"width":400,"height":400},
 		{"id":"b3181e7fbb777dee","type":"file","file":"ML-OPS/0 ML-OPS.md","x":-1440,"y":-520,"width":400,"height":400},
 		{"id":"9d8b927ac1ae31b5","type":"file","file":"ML/Вопросы к собеседованию/Оглавление.md","x":-355,"y":-1640,"width":400,"height":400},
-		{"id":"a1eba66fd6c97b31","type":"file","file":"ML/Линейные модели. Регрессия.md","x":400,"y":-1120,"width":400,"height":400},
-		{"id":"d9d293be4486ff2c","type":"file","file":"ML/Оценка и метрики качества модели.md","x":120,"y":120,"width":400,"height":400},
-		{"id":"8909c776d7a3eb23","type":"file","file":"ML/Линейная классификация.md","x":-880,"y":-920,"width":400,"height":400},
-		{"id":"d30c81154b0779b2","type":"file","file":"ML/Регуляризация.md","x":1000,"y":-1120,"width":400,"height":400},
-		{"id":"eba882cd509c9ef5","type":"file","file":"ML/Функционалы потерь.md","x":1560,"y":-520,"width":400,"height":400},
+		{"id":"a1eba66fd6c97b31","type":"file","file":"ML/ML от Яндекса/Линейные модели. Регрессия.md","x":400,"y":-1120,"width":400,"height":400},
+		{"id":"d9d293be4486ff2c","type":"file","file":"ML/ML от Яндекса/Оценка и метрики качества модели.md","x":120,"y":120,"width":400,"height":400},
+		{"id":"8909c776d7a3eb23","type":"file","file":"ML/ML от Яндекса/Линейная классификация.md","x":-880,"y":-920,"width":400,"height":400},
+		{"id":"d30c81154b0779b2","type":"file","file":"ML/ML от Яндекса/Регуляризация.md","x":1000,"y":-1120,"width":400,"height":400},
+		{"id":"eba882cd509c9ef5","type":"file","file":"ML/ML от Яндекса/Функционалы потерь.md","x":1560,"y":-520,"width":400,"height":400},
 		{"id":"21034c87f533bcae","type":"file","file":"ML-OPS/Исследования.md","x":-2320,"y":-920,"width":400,"height":400},
 		{"id":"b2fcca57b810ed08","type":"file","file":"ML-OPS/Docker.md","x":-2320,"y":-320,"width":400,"height":400},
 		{"id":"35c0fe8a1354be85","type":"file","file":"ML-OPS/GIT.md","x":-2320,"y":240,"width":400,"height":400}
