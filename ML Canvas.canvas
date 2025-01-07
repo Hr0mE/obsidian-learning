@@ -3,7 +3,7 @@
 		{"id":"b7e6c2a7cd44e87f","type":"file","file":"ML/0 Введение в ML.md","x":-355,"y":-520,"width":400,"height":400},
 		{"id":"b3181e7fbb777dee","type":"file","file":"ML-OPS/0 ML-OPS.md","x":-1440,"y":-520,"width":400,"height":400},
 		{"id":"9d8b927ac1ae31b5","type":"file","file":"ML/Вопросы к собеседованию.md","x":-355,"y":-1640,"width":400,"height":400},
-		{"id":"a1eba66fd6c97b31","type":"file","file":"ML/Линейные модели.md","x":400,"y":-1120,"width":400,"height":400},
+		{"id":"a1eba66fd6c97b31","type":"file","file":"ML/Линейные модели. Регрессия.md","x":400,"y":-1120,"width":400,"height":400},
 		{"id":"d9d293be4486ff2c","type":"file","file":"ML/Оценка и метрики качества модели.md","x":120,"y":120,"width":400,"height":400},
 		{"id":"8909c776d7a3eb23","type":"file","file":"ML/Линейная классификация.md","x":-880,"y":-920,"width":400,"height":400},
 		{"id":"d30c81154b0779b2","type":"file","file":"ML/Регуляризация.md","x":1000,"y":-1120,"width":400,"height":400},
